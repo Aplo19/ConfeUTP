@@ -97,11 +97,3 @@ El frontend corre en:
 http://localhost:3000
 ```
 
-## Orden recomendado para iniciar
-
-1. Abrir XAMPP y activar MySQL.
-2. Crear la base de datos `uniconfess`.
-3. Crear `uni-confess_back_nest/.env`.
-4. Iniciar el backend con `npm run start:dev`.
-5. Iniciar el frontend con `npm start`.
-6. Probar login con `admin@test.com` y `1234`.
